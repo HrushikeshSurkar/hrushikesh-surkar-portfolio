@@ -1,0 +1,25 @@
+.education-section {
+  background-color: var(--main-bg-color);
+  color: var(--main-color);
+  padding: 4%;
+}
+
+.education-main-content-wrap {
+  display: flex;
+  justify-content: space-between; /* Maintain space between cards and icon */
+  align-items: center; /* Center items vertically */
+}
+
+.education-cards {
+  width: 50%; /* Take up 50% width */
+}
+
+.education-icon-wrap {
+  width: 50%; /* Take up 50% width */
+  display: flex;
+  justify-content: center; /* Center icon horizontally */
+}
+
+.education-icon-main {
+  font-size: 2000%;
+}

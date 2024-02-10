@@ -48,6 +48,7 @@ hrushikesh-surkar-portfolio
 │   ├── pages
 │   │   ├── About.js
 │   │   ├── Contact.js
+│   │   ├── Education.js
 │   │   ├── Home.js
 │   │   ├── Navbar.js
 │   │   └── Projects.js
@@ -64,6 +65,7 @@ hrushikesh-surkar-portfolio
 │   │   └── pages
 │   │       ├── About.css
 │   │       ├── Contact.css
+│   │       ├── Education.css
 │   │       ├── Home.css
 │   │       ├── Navbar.css
 │   │       └── Projects.css

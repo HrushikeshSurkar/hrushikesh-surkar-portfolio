@@ -1,7 +1,7 @@
 .hero {
   position: relative;
-  background-color: #003366; /* Dark blue background color */
-  color: #fff; /* White text color */
+  background-color: var(--main-bg-color);
+  color: var(--main-color);
   padding: 250px 0;
   text-align: center;
 }

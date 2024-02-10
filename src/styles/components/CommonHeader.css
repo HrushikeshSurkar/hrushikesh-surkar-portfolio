@@ -1,12 +1,13 @@
 .common-header {
   text-align: center;
   font-size: 2rem;
+  margin: 0px 40px;
   padding: 10px;
   border-bottom: 2px solid #ccc;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
-  background-color: #f8f8f8;
-  font-family: "Arial", sans-serif; /* Use a custom font */
+  color: var(--main-color);
+  background-color: var(--main-bg-color); /* Set text color */
+  font-family: var(--main-font-family); /* Use a custom font */
   font-weight: bold; /* Apply bold font weight */
-  color: #333; /* Set text color */
 }

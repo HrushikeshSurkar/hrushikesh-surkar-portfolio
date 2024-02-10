@@ -1,0 +1,32 @@
+.main-card {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  text-align: left;
+  background-color: var(--main-color);
+  color: var(--main-bg-color);
+  padding: 3%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  font-weight: bold;
+  margin: 3%;
+}
+
+.education-icon {
+  font-size: 300%;
+  margin: 0px 20px;
+}
+.education-wrap {
+  margin: 0px 5%;
+}
+
+.education-year {
+  font-size: 100%;
+}
+.education-title {
+  font-size: 150%;
+}
+.education-place {
+  font-size: 100%;
+}
