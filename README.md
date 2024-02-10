@@ -33,9 +33,37 @@ hrushikesh-surkar-portfolio
 |   ├── manifest.json
 |   └── robots.txt
 |
-|-- src
-|   ├── components
-|   ├── pages
+├── src
+│   ├── components
+│   │   ├── ui
+│   │   │   ├── Header.js
+│   │   │   ├── Footer.js
+│   │   │   ├── Button.js
+│   │   │   └── ProjectCard.js
+│   │   │
+│   │   └── layout
+│   │       └── MainLayout.js
+│   │
+│   ├── pages
+│   │   ├── Home.js
+│   │   ├── About.js
+│   │   ├── Projects.js
+│   │   └── Contact.js
+│   │
+│   └── styles
+│   │   ├── global.css
+│   │   ├── components
+│   │   │   ├── Header.css
+│   │   │   ├── Footer.css
+│   │   │   ├── Button.css
+│   │   │   └── ProjectCard.css
+│   │   │
+│   │   └── pages
+│   │       ├── Home.css
+│   │       ├── About.css
+│   │       ├── Projects.css
+│   │       └── Contact.css
+│   │
 |   ├── assets
 |   ├── App.css
 |   ├── App.js
