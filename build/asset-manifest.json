@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hrushikesh-surkar-portfolio/static/css/main.17ed0f34.css",
-    "main.js": "/hrushikesh-surkar-portfolio/static/js/main.da89a663.js",
+    "main.css": "/hrushikesh-surkar-portfolio/static/css/main.81c741ff.css",
+    "main.js": "/hrushikesh-surkar-portfolio/static/js/main.32300cbc.js",
     "static/js/592.8656f91a.chunk.js": "/hrushikesh-surkar-portfolio/static/js/592.8656f91a.chunk.js",
     "index.html": "/hrushikesh-surkar-portfolio/index.html",
-    "main.17ed0f34.css.map": "/hrushikesh-surkar-portfolio/static/css/main.17ed0f34.css.map",
-    "main.da89a663.js.map": "/hrushikesh-surkar-portfolio/static/js/main.da89a663.js.map",
+    "main.81c741ff.css.map": "/hrushikesh-surkar-portfolio/static/css/main.81c741ff.css.map",
+    "main.32300cbc.js.map": "/hrushikesh-surkar-portfolio/static/js/main.32300cbc.js.map",
     "592.8656f91a.chunk.js.map": "/hrushikesh-surkar-portfolio/static/js/592.8656f91a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17ed0f34.css",
-    "static/js/main.da89a663.js"
+    "static/css/main.81c741ff.css",
+    "static/js/main.32300cbc.js"
   ]
 }
