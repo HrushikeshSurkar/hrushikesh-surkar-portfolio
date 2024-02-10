@@ -16,10 +16,9 @@ const About = ({ experience }) => {
           </p>
           <p className="more-text">
             I'm passionate about creating beautiful and functional websites that
-            provide great user experiences. With {experience} years of
-            experience in web development, I specialize in front-end
-            technologies such as HTML, CSS, and JavaScript, as well as
-            frameworks like React.js.
+            provide great user experiences. With {experience} of experience in
+            web development, I specialize in front-end technologies such as
+            HTML, CSS, and JavaScript, as well as frameworks like React.js.
           </p>
         </div>
         <div className="separator"></div>
