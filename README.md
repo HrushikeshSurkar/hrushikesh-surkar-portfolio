@@ -9,6 +9,7 @@ I'm Hrushikesh Surkar, a budding web developer driven by curiosity and a thirst 
 - HTML & CSS
 - React JS
 - Git
+- Github pages
 
 **Project Structure:**
 
@@ -18,6 +19,38 @@ I'm Hrushikesh Surkar, a budding web developer driven by curiosity and a thirst 
   - `assets`: Images, fonts, and other multimedia resources.
 - `public`: Static files served directly by the server, like the `index.html` file.
 - `package.json`: Manages project dependencies and scripts.
+
+# Project Structure
+
+Dive into the heart of this portfolio website with a glimpse into its directory tree:
+
+```
+hrushikesh-surkar-portfolio
+├── build
+├── node_modules
+├── public
+|   ├── favicon.ico
+|   ├── index.html
+|   ├── logo192.png
+|   ├── logo512.png
+|   ├── manifest.json
+|   └── robots.txt
+|
+|-- src
+|   ├── components
+|   ├── pages
+|   ├── assets
+|   ├── App.css
+|   ├── App.js
+|   ├── index.js
+|   ├── reportWebVitals.js
+|   └── setupTests.js
+|
+├── .gitignore
+├── package-lock.json
+├── package.json
+├── README.md
+```
 
 **Key Features:**
 
