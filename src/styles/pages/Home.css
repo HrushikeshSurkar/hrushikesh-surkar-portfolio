@@ -1,0 +1,69 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* MainLayout.css */
+
+/* No specific styles needed for MainLayout */
+
+/* Home.css */
+
+.home {
+  text-align: center;
+}
+
+.hero {
+  background-color: #f0f0f0;
+  padding: 100px 0;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero-content p {
+  font-size: 1.5rem;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.hero-content button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.hero-content button:hover {
+  background-color: #0056b3;
+}
+
+.about {
+  padding: 50px 0;
+}
+
+.about h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.about p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+/* Add more styles for other sections as needed */

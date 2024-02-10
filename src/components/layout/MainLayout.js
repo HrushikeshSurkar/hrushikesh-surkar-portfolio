@@ -1,7 +1,13 @@
 import React from "react";
-
+import Home from "../../pages/Home";
+import NavbarComponent from "../../pages/Navbar";
 const MainLayout = () => {
-  return <div>MainLayout Component works</div>;
+  return (
+    <main>
+      <NavbarComponent />
+      <Home />;
+    </main>
+  );
 };
 
 export default MainLayout;
