@@ -45,10 +45,11 @@ hrushikesh-surkar-portfolio
 │   │       └── MainLayout.js
 │   │
 │   ├── pages
-│   │   ├── Home.js
 │   │   ├── About.js
-│   │   ├── Projects.js
-│   │   └── Contact.js
+│   │   ├── Contact.js
+│   │   ├── Home.js
+│   │   ├── Navbar.js
+│   │   └── Projects.js
 │   │
 │   └── styles
 │   │   ├── global.css
@@ -59,10 +60,11 @@ hrushikesh-surkar-portfolio
 │   │   │   └── ProjectCard.css
 │   │   │
 │   │   └── pages
-│   │       ├── Home.css
 │   │       ├── About.css
-│   │       ├── Projects.css
-│   │       └── Contact.css
+│   │       ├── Contact.css
+│   │       ├── Home.css
+│   │       ├── Navbar.css
+│   │       └── Projects.css
 │   │
 |   ├── assets
 |   ├── App.css
