@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.425e4cf4.css","mappings":"AAAA,SAIE,kBAAmB,CAHnB,YAAa,CAMb,mBAAoB,CAFpB,WAAY,CAFZ,sBAAuB,CADvB,iBAMF","sources":["App.css"],"sourcesContent":[".heading {\n  display: flex;\n  text-align: center;\n  justify-content: center;\n  align-items: center;\n  height: 90vh;\n\n  font-size: xxx-large;\n}\n"],"names":[],"sourceRoot":""}
