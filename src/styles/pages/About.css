@@ -53,3 +53,55 @@
   border-radius: 50%;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
 }
+@media screen and (max-width: 768px) {
+  .about-page {
+    padding: 0px 0px;
+  }
+
+  .about-content {
+    display: block;
+  }
+
+  .left-section {
+    width: calc(100% - 0px); /* Adjusted width */
+  }
+
+  .section-title {
+    font-size: 15vw;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #333;
+  }
+
+  .about-description {
+    font-size: 20px;
+    line-height: 1.6; /* Increased line height */
+    margin-bottom: 20px;
+    color: #666;
+  }
+
+  .more-text {
+    font-size: 15px;
+    line-height: 1.6; /* Increased line height */
+    color: #777;
+  }
+
+  .separator {
+    display: none;
+  }
+
+  .right-section {
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+    padding: 20px;
+    width: calc(100% - 0px); /* Adjusted width */
+  }
+
+  .profile-image {
+    width: 80%;
+    max-width: 300px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  }
+}
