@@ -1,11 +1,9 @@
 import React from "react";
-import Home from "../../pages/Home";
-import NavbarComponent from "../../pages/Navbar";
+import Header from "../ui/Header";
 const MainLayout = () => {
   return (
     <main>
-      <NavbarComponent />
-      <Home />;
+      <Header />
     </main>
   );
 };

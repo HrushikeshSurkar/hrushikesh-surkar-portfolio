@@ -36,9 +36,10 @@ hrushikesh-surkar-portfolio
 ├── src
 │   ├── components
 │   │   ├── ui
-│   │   │   ├── Header.js
-│   │   │   ├── Footer.js
 │   │   │   ├── Button.js
+│   │   │   ├── CommonHeader.js
+│   │   │   ├── Footer.js
+│   │   │   ├── Header.js
 │   │   │   └── ProjectCard.js
 │   │   │
 │   │   └── layout
@@ -54,9 +55,10 @@ hrushikesh-surkar-portfolio
 │   └── styles
 │   │   ├── global.css
 │   │   ├── components
-│   │   │   ├── Header.css
-│   │   │   ├── Footer.css
 │   │   │   ├── Button.css
+│   │   │   ├── CommonHeader.js
+│   │   │   ├── Footer.css
+│   │   │   ├── Header.css
 │   │   │   └── ProjectCard.css
 │   │   │
 │   │   └── pages
