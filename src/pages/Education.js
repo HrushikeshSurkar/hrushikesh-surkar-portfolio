@@ -7,7 +7,11 @@ import { FaBook } from "react-icons/fa";
 const Education = () => {
   return (
     <section className="education-section">
-      <CommonHeader title={"Education"} />
+      <CommonHeader
+        title={"Education"}
+        bgColorForHeader={" --main-bg-color"}
+        colorForHeader={"--main-color"}
+      />
       <div className="education-main-content-wrap">
         <div className="education-icon-wrap">
           <FaBook className="education-icon-main" />

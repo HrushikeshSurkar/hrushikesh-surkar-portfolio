@@ -51,7 +51,8 @@ hrushikesh-surkar-portfolio
 │   │   ├── Education.js
 │   │   ├── Home.js
 │   │   ├── Navbar.js
-│   │   └── Projects.js
+│   │   ├── Projects.js
+│   │   └── Skills.js
 │   │
 │   └── styles
 │   │   ├── global.css
@@ -68,7 +69,8 @@ hrushikesh-surkar-portfolio
 │   │       ├── Education.css
 │   │       ├── Home.css
 │   │       ├── Navbar.css
-│   │       └── Projects.css
+│   │       ├── Projects.css
+│   │       └── Skills.css
 │   │
 |   ├── assets
 |   ├── App.css
