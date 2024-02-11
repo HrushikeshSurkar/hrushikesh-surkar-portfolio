@@ -14,19 +14,19 @@ const Education = () => {
         </div>
         <div className="education-cards">
           <Card
-            educationPlace="Shree ganesh das Rathi vaidya Amravati"
+            educationPlace="Shree ganesh das Rathi vaidyalay Amravati"
             year="2015 - 2017"
             educationTitle="10th Grade"
           />
           <Card
-            educationPlace="Vidyabharti mahavidyalaya Amravati"
+            educationPlace="Vidyabharti Mahavidyalaya Amravati"
             year="2017 - 2019"
             educationTitle="12th Grade"
           />
           <Card
             educationPlace="KDK collage of Engineering, Nagpur"
             year="2019 - 2023"
-            educationTitle="B.E. in Computer Science & Engineering"
+            educationTitle="B.E.(CSE)"
           />
         </div>
       </div>

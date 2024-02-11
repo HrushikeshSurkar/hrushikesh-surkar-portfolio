@@ -23,3 +23,26 @@
 .education-icon-main {
   font-size: 2000%;
 }
+@media screen and (max-width: 768px) {
+  .education-section {
+    background-color: var(--main-bg-color);
+    color: var(--main-color);
+  }
+
+  .education-main-content-wrap {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .education-cards {
+    width: 100%; /* Take up 50% width */
+  }
+
+  .education-icon-wrap {
+    width: 60%; /* Take up 50% width */
+  }
+
+  .education-icon-main {
+    font-size: 2000%;
+  }
+}
