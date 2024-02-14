@@ -1,0 +1,90 @@
+/* Skills.css */
+
+.skills-section {
+  padding: 4%;
+}
+
+.skills-main-content-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2%;
+  justify-content: center;
+  gap: 20px;
+}
+
+.skills-card-wrap {
+  width: 150px; /* Adjusted width for smaller screens */
+  height: 200px;
+  margin: 10px;
+  position: relative;
+  perspective: 1000px; /* Add perspective for 3D effect */
+}
+
+/* Adjust card size for mobile view */
+@media (max-width: 768px) {
+  .skills-card-wrap {
+    width: 200px;
+    height: 250px;
+  }
+}
+
+.skills-card-inner {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  transition: transform 0.5s; /* Add transition for flip animation */
+  transform-style: preserve-3d;
+}
+
+.skills-card-wrap:hover .skills-card-inner {
+  transform: rotateY(180deg); /* Flip the card on hover */
+}
+
+.skills-card-front,
+.skills-card-back {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden; /* Hide backface of the card */
+}
+
+.skills-card-front {
+  background-color: var(--main-color);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+.skills-card-front-text {
+  font-weight: 900;
+  font-size: 20px;
+}
+
+.skills-card-back {
+  background-color: #ddd;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transform: rotateY(180deg); /* Initially rotate the back of the card */
+}
+
+.skills-card-wrap img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+.knowledge-percent {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.skills-card-wrap div {
+  font-size: 16px;
+  color: #333;
+}
