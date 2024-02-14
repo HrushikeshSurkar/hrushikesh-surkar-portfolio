@@ -36,43 +36,72 @@ hrushikesh-surkar-portfolio
 ├── src
 │   ├── components
 │   │   ├── ui
-│   │   │   ├── Button.js
-│   │   │   ├── CommonHeader.js
-│   │   │   ├── Footer.js
-│   │   │   ├── Header.js
+│   │   │   ├── Button
+│   │   │   |   ├── Button.js
+│   │   │   |   └── Button.css
+│   │   │   |
+│   │   │   ├── CommonHeader.
+│   │   │   |   ├── CommonHeader.js
+│   │   │   |   └── CommonHeader.css
+│   │   │   |
+│   │   │   ├── Footer
+│   │   │   |   ├── Footer.js
+│   │   │   |   └── Footer.css
+│   │   │   |
+│   │   │   ├── Header
+│   │   │   |   ├── Header.js
+│   │   │   |   └── Header.css
+│   │   │   |
 │   │   │   └── ProjectCard.js
+│   │   │       ├── ProjectCard.js
+│   │   │       └── ProjectCard.css
 │   │   │
 │   │   └── layout
-│   │       └── MainLayout.js
+│   │       └── MainLayout
+│   │           ├── MainLayout.js
+│   │           └── MainLayout.css
 │   │
 │   ├── pages
-│   │   ├── About.js
-│   │   ├── Contact.js
-│   │   ├── Education.js
-│   │   ├── Home.js
-│   │   ├── Navbar.js
-│   │   ├── Projects.js
+│   │   ├── About
+│   │   |   ├── About.js
+│   │   |   └── About.css
+│   │   |
+│   │   ├── Contact
+│   │   |   ├── Contact.js
+│   │   |   └── Contact.css
+│   │   |
+│   │   ├── Education
+│   │   |   ├── Education.js
+│   │   |   └── Education.css
+│   │   |
+│   │   ├── Home
+│   │   |   ├── Home.js
+│   │   |   └── Home.css
+│   │   |
+│   │   ├── Navbar
+│   │   |   ├── Navbar.js
+│   │   |   └── Navbar.css
+│   │   |
+│   │   ├── Projects
+│   │   |   ├── Projects.js
+│   │   |   └──Projects.css
+│   │   |
 │   │   └── Skills.js
-│   │
-│   └── styles
-│   │   ├── global.css
-│   │   ├── components
-│   │   │   ├── Button.css
-│   │   │   ├── CommonHeader.js
-│   │   │   ├── Footer.css
-│   │   │   ├── Header.css
-│   │   │   └── ProjectCard.css
-│   │   │
-│   │   └── pages
-│   │       ├── About.css
-│   │       ├── Contact.css
-│   │       ├── Education.css
-│   │       ├── Home.css
-│   │       ├── Navbar.css
-│   │       ├── Projects.css
+│   │       ├── Skills.js
 │   │       └── Skills.css
 │   │
+│   └── styles
+│   │   └── global.css
+│   │
 |   ├── assets
+|   |   ├── skills-icons
+|   |   |   ├── angular.jpg
+|   |   |   ├── css.jpg
+|   |   |   ├── figma.jpg
+|   |   |   ├── html.jpg
+|   |   |   ├── js.jpg
+|   |   |   └── react.png
+|   |   └── HrushikeshSurkar.png
 |   ├── App.css
 |   ├── App.js
 |   ├── index.js
