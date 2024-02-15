@@ -1,0 +1,23 @@
+.blog-section {
+  padding: 4%;
+}
+
+.blogs-card {
+  margin: 2%;
+  display: flex;
+  flex-wrap: wrap; /* Allow cards to wrap onto multiple lines */
+  justify-content: space-around;
+}
+
+.card-container {
+  margin: 2%;
+  width: calc(80% / 3 - 4%);
+  /* Adjust the width for three cards per row */
+}
+
+@media (max-width: 768px) {
+  .card-container {
+    width: calc(100% / 1 - 4%);
+    /* Adjust the width for two cards per row on smaller screens */
+  }
+}

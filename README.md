@@ -66,6 +66,10 @@ hrushikesh-surkar-portfolio
 │   │   |   ├── About.js
 │   │   |   └── About.css
 │   │   |
+│   │   ├── Blogs
+│   │   |   ├── Blogs.js
+│   │   |   └── Blogs.css
+│   │   |
 │   │   ├── Contact
 │   │   |   ├── Contact.js
 │   │   |   └── Contact.css
@@ -100,7 +104,9 @@ hrushikesh-surkar-portfolio
 |   |   |   ├── figma.jpg
 |   |   |   ├── html.jpg
 |   |   |   ├── js.jpg
+|   |   |   ├── Tools.jpg
 |   |   |   └── react.png
+|   |   ├── Assets.js
 |   |   └── HrushikeshSurkar.png
 |   ├── App.css
 |   ├── App.js
