@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hrushikesh-surkar-portfolio/static/css/main.aa9a80a2.css",
-    "main.js": "/hrushikesh-surkar-portfolio/static/js/main.9c81261b.js",
+    "main.css": "/hrushikesh-surkar-portfolio/static/css/main.beea0695.css",
+    "main.js": "/hrushikesh-surkar-portfolio/static/js/main.cfbf7c99.js",
     "static/js/592.8656f91a.chunk.js": "/hrushikesh-surkar-portfolio/static/js/592.8656f91a.chunk.js",
     "static/media/HrushikeshSurkar.png": "/hrushikesh-surkar-portfolio/static/media/HrushikeshSurkar.ad71b3585b4cbf35dc35.png",
     "static/media/Tools.jpg": "/hrushikesh-surkar-portfolio/static/media/Tools.3b4bc24280d970d75eac.jpg",
@@ -11,12 +11,12 @@
     "static/media/angular.jpg": "/hrushikesh-surkar-portfolio/static/media/angular.5ffbd3621b0d2f9afd4b.jpg",
     "static/media/figma.jpg": "/hrushikesh-surkar-portfolio/static/media/figma.5d106bf75fc07a7202ff.jpg",
     "index.html": "/hrushikesh-surkar-portfolio/index.html",
-    "main.aa9a80a2.css.map": "/hrushikesh-surkar-portfolio/static/css/main.aa9a80a2.css.map",
-    "main.9c81261b.js.map": "/hrushikesh-surkar-portfolio/static/js/main.9c81261b.js.map",
+    "main.beea0695.css.map": "/hrushikesh-surkar-portfolio/static/css/main.beea0695.css.map",
+    "main.cfbf7c99.js.map": "/hrushikesh-surkar-portfolio/static/js/main.cfbf7c99.js.map",
     "592.8656f91a.chunk.js.map": "/hrushikesh-surkar-portfolio/static/js/592.8656f91a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa9a80a2.css",
-    "static/js/main.9c81261b.js"
+    "static/css/main.beea0695.css",
+    "static/js/main.cfbf7c99.js"
   ]
 }
