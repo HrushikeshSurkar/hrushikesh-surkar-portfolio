@@ -17,16 +17,6 @@
   overflow: hidden; /* Hide overflow */
 }
 
-.hero-title span {
-  display: inline-block;
-  transform: translateY(100%); /* Initial position below the container */
-  transition: transform 1s ease; /* Animation duration and easing */
-}
-
-.hero-title:hover span {
-  transform: translateY(0); /* Move the text to its original position */
-}
-
 .hero-subtitle {
   font-size: 1.5rem;
   margin-bottom: 30px;

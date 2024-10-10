@@ -5,6 +5,7 @@ import Education from "../../../pages/Education/Education";
 import Skills from "../../../pages/Skills/Skills";
 import Experience from "../../../pages/Experience/Experience";
 import Blogs from "../../../pages/Blogs/Blogs";
+import Contact from "../../../pages/Contact/Contact";
 
 const MainSection = ({ experience }) => {
   return (
@@ -15,6 +16,7 @@ const MainSection = ({ experience }) => {
       <Skills />
       <Experience />
       <Blogs />
+      <Contact />
     </div>
   );
 };
