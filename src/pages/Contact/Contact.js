@@ -11,16 +11,13 @@ const Contact = () => {
   const [message, setMessage] = useState("");
 
   const handleSubmit = (e) => {
-    e.preventDefault(); // Prevent the default form submission
-
-    // Construct the mailto link
+    e.preventDefault();
     const mailtoLink = `mailto:hrushikeshsurkar@example.com?subject=Message from ${encodeURIComponent(
       name
     )}&body=${encodeURIComponent(message)}%0D%0AFrom: ${encodeURIComponent(
       email
     )}`;
 
-    // Open the default email client
     window.location.href = mailtoLink;
   };
 
@@ -71,7 +68,7 @@ const Contact = () => {
               </Form.Group>
             </Form>
           </div>
-          <div className="contact-info col-6">
+          <div className="contact-info col-lg-6 col-md-12 d-flex flex-column">
             <div className="contact-item">
               <MdAlternateEmail className="contact-icon" />
               <span>hrushikeshsurkar@example.com</span>
